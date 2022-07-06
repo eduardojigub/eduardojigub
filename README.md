@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/REACT/NODE.JS/C#/TYPESCRIPT/SQL
 - 📚 I'm currently graduating in Software Engineering (end projected to June, 2023)
 - 📫 How to reach me: 
-- Linkedin: https://www.linkedin.com/in/eduardo-bruno-sousa-13a36498/  - 
+- Linkedin: https://www.linkedin.com/in/eduardo-bruno-sousa/  - 
 - E-mail: eduardobrunoit@gmail.com
 
 <div>
