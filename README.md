@@ -13,5 +13,5 @@
 </div>
 
 <div>
-<img height="180em" src="https://github.r2v.ch/codewars?user=eduardojigub&stroke=%23BB432C/>
+![Codewars](https://github.r2v.ch/codewars?user=eduardojigub)
 </div>
