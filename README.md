@@ -9,9 +9,9 @@
 
 <div>
   <a href="https://github.com/eduardojigub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojigub&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  
 </div>
 
 <div>
-https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&card&colormode=dark_mode>
+<img height="180em" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=eduardojigub&card&colormode=dark_mode"/>
 </div>
