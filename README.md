@@ -13,5 +13,5 @@
 </div>
 
 <div>
-![Codewars](https://github.r2v.ch/codewars?user=eduardojigub)
+<img src="https://github.r2v.ch/codewars?user=eduardojigub"/>
 </div>
