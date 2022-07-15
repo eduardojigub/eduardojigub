@@ -13,5 +13,5 @@
 </div>
 
 <div>
-<img height="180em" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=eduardojigub&card&colormode=dark_mode"/>
+<img height="180em" src="https://github.r2v.ch/codewars?user=eduardojigub&stroke=%23BB432C/>
 </div>
