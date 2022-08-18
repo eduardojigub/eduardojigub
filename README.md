@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Eduardo Bruno Sousa 
+## Hi there 👋, my name is Eduardo Bruno Sousa 
 
 - 🔭 I’m currently studying in Trybe Coding School (www.betrybe.com) thanks to a schorlaship offered to me by XP Inc.
 - 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/REACTJS/NODE.JS/EXPRESS/C#/TYPESCRIPT/SQL/MONGODB
