@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying in Trybe Coding School (www.betrybe.com) thanks to a schorlaship offered to me by XP Inc.
 - 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/REACTJS/NODE.JS/EXPRESS/C#/TYPESCRIPT/SQL/MONGODB
 - 📚 I'm currently graduating in Software Engineering (end projected to June, 2023)
-- 👨‍💼 Working as a Software Developer Trainee at Fitbank (www.fitbank.com.br) 
+- 👨‍💼 Working as a Software Developer at Fitbank (www.fitbank.com.br) 
 - 📫 How to reach me: 
 - Linkedin: https://www.linkedin.com/in/eduardo-bruno-sousa/  - 
 - E-mail: eduardobrunoit@gmail.com
